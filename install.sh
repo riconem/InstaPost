@@ -6,6 +6,7 @@ sudo apt-get install chromium-browser
 mkdir files assets
 mkdir files/logs files/queue
 touch files/logs/uploaded.txt files/logs/uploaded_img.txt
+chmod +w files/logs/uploaded.txt files/logs/uploaded_img.txt
 
 cd assets
 
