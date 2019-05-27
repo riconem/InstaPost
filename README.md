@@ -7,7 +7,7 @@ A desktop environment is required for this script. I wasn't able to get it worki
 ```
 git clone "https://github.com/riconem/InstaPost.git"
 cd InstaPost
-chmod 755 install.sh
+chmod +x install.sh
 ./install.sh
 ```
 # Setup your posts
