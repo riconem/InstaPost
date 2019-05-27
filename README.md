@@ -20,6 +20,7 @@ pwd = 'password'
 ```
 ## Execute
 ```
+# if you want execute via ssh export your Display variable
 export DISPLAY="0.0"
 python quickpost.py
 ```
