@@ -1,6 +1,10 @@
+###### Update: This script isn't working anymore! 😐
+
 # InstaPost
 Short Python script to post pictures automatically on Instagram.
 The main code is based on Tim Grossmanns automated Instagram Tool https://github.com/timgrossmann/InstaPy.
+
+
 
 # Installation on Rasbian Desktop
 A desktop environment is required for this script. I wasn't able to get it working in the background. :D
